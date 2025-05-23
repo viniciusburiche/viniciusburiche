@@ -1,0 +1,30 @@
+query {
+  corporates(limit: 50, offset: 0) {
+    items {
+      name
+      cnpj
+      segment
+      financialInfo {
+        rate
+        creditLimit
+        rating
+        fee
+      }
+      statusInfo {
+        cardStatus
+        validity
+      }
+      originatorDetails {
+        originator
+        originatorEmail
+      }
+      contract {
+        startDate
+        endDate
+        terms
+      }
+    }
+    totalCount
+    hasNextPage
+  }
+}
