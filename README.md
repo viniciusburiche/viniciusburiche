@@ -12,6 +12,8 @@ Financial Analyst and Economist specialized in equity, credit, credit risk, fina
   <img alt="Python" title="Python" width="50px" style="vertical-align: middle; margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="SQL" title="SQL" width="50px" style="vertical-align: middle; margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="Power BI" title="Power BI" width="50px" style="vertical-align: middle; margin-right: 15px;" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+  <img alt="GraphQL" title="GraphQL" width="50px" style="vertical-align: middle; margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+
 </p>
 
 ---
