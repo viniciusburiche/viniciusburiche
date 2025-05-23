@@ -19,3 +19,7 @@ Financial Analyst and Economist specialized in equity, credit, credit risk, fina
 ### 🔗 Projects
 
 [Portfolio](https://github.com/viniciusburiche/viniciusburiche)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusburiche&layout=compact&theme=default)
