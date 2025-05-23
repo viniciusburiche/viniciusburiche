@@ -22,4 +22,4 @@ Financial Analyst and Economist specialized in equity, credit, credit risk, fina
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusburiche&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusburiche&layout=compact&theme=tokyonight)
