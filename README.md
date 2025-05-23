@@ -1,16 +1,21 @@
-## Hi there 👋
+# 📊 Vinícius Buriche
 
-<!--
-**viniciusburiche/viniciusburiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Financial Analyst | Economist`**
 
-Here are some ideas to get you started:
+Financial Analyst and Economist specialized in equity, credit, credit risk, financial modeling, and sectoral analysis. Certified Brazilian Investment Analyst (CNPI). Experienced in High Grade and High Yield securities with focus on infrastructure, utilities, agribusiness, and surety bonds. Reach me on Linkedin: [Vinícius Buriche](linkedin.com/vinicius-buriche/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools and Technologies
+<p>
+  <img alt="VBA" title="Visual Basic" width="50px" style="vertical-align: middle; margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" /> 
+  <img alt="Python" title="Python" width="50px" style="vertical-align: middle; margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="SQL" title="SQL" width="50px" style="vertical-align: middle; margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Power BI" title="Power BI" width="50px" style="vertical-align: middle; margin-right: 15px;" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+</p>
+
+---
+
+### 🔗 Projects
+
+[Portfolio](https://github.com/viniciusburiche/viniciusburiche)
