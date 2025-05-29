@@ -59,10 +59,7 @@ else:
     print(f"'{term}' is not a valid column in the Rating_PD dataset.")
 
 # Pricing calculation
-pricing_data['PEB'] = (pricing_data['STP'] *
-                       pricing_data['LGD'] *
-                       pricing_data['ALF'] *
-                       probability_of_default)
+pricing_data['PEB'] = (pricing_data['STP'] * pricing_data['LGD'] * pricing_data['ALF'] * probability_of_default)
 
 # Fixed parameters
 administrative_costs = 0.10
